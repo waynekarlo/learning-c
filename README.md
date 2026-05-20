@@ -12,6 +12,10 @@ I use the Dive into Systems book as my learning material linked here: https://di
   * Self-referential structs and Linked Lists.
   * File I/O (reading and writing to the hard drive).
 
+Some learning platforms I use for code practice:
+https://www.hackerrank.com/
+https://exercism.org/
+
 I use GCC to compile these files.
 ```bash
 gcc filename.c -o output_name
